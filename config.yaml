@@ -22,6 +22,6 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "LLM": 
-        filters: ["LLM", "Large Language Model"]
+    "Diffusion": 
+        filters: ["Diffusion", "Stable Diffusion Models"]
 
