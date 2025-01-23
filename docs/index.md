@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.21
+## Updated on 2025.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4093,6 +4093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Towards Affordance-Aware Articulation Synthesis for Rigged Objects**|Yu-Chu Yu et.al.|[2501.12393](http://arxiv.org/abs/2501.12393)|null|
+|**2025-01-22**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390](http://arxiv.org/abs/2501.12390)|null|
+|**2025-01-21**|**Audio Texture Manipulation by Exemplar-Based Analogy**|Kan Jen Cheng et.al.|[2501.12385](http://arxiv.org/abs/2501.12385)|null|
+|**2025-01-21**|**DiffDoctor: Diagnosing Image Diffusion Models Before Treating**|Yiyang Wang et.al.|[2501.12382](http://arxiv.org/abs/2501.12382)|null|
+|**2025-01-21**|**Diffusion-aware Censored Gaussian Processes for Demand Modelling**|Filipe Rodrigues et.al.|[2501.12354](http://arxiv.org/abs/2501.12354)|**[link](https://github.com/fmpr/diffusion-aware-censored-gp)**|
+|**2025-01-21**|**Decoherence of Schrödinger cat states in light of wave/particle duality**|Th. K. Mavrogordatos et.al.|[2501.12328](http://arxiv.org/abs/2501.12328)|null|
+|**2025-01-21**|**The Rouse ring chain with attractive harmonic potential of spherical symmetry**|Nail Fatkullin et.al.|[2501.12324](http://arxiv.org/abs/2501.12324)|null|
+|**2025-01-21**|**Regressor-Guided Image Editing Regulates Emotional Response to Reduce Online Engagement**|Christoph Gebhardt et.al.|[2501.12289](http://arxiv.org/abs/2501.12289)|null|
+|**2025-01-21**|**Dynamic Metal-Support Interaction Dictates Cu Nanoparticle Sintering on Al $_2$O$_3$ Surfaces**|Jiayan Xu et.al.|[2501.12283](http://arxiv.org/abs/2501.12283)|null|
+|**2025-01-21**|**VipDiff: Towards Coherent and Diverse Video Inpainting via Training-free Denoising Diffusion Models**|Chaohao Xie et.al.|[2501.12267](http://arxiv.org/abs/2501.12267)|null|
 |**2025-01-17**|**Convergent Sixth-order Compact Finite Difference Method for Variable-Coefficient Elliptic PDEs in Curved Domains**|Bin Han et.al.|[2501.10358](http://arxiv.org/abs/2501.10358)|null|
 |**2025-01-17**|**Principled model selection for stochastic dynamics**|Andonis Gerardos et.al.|[2501.10339](http://arxiv.org/abs/2501.10339)|null|
 |**2025-01-17**|**DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration**|Huiyun Cao et.al.|[2501.10325](http://arxiv.org/abs/2501.10325)|null|
