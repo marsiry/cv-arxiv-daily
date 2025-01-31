@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.29
+## Updated on 2025.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4093,6 +4093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**Planetesimal formation in a pressure bump induced by infall**|Haichen Zhao et.al.|[2501.17857](http://arxiv.org/abs/2501.17857)|null|
+|**2025-01-29**|**Langevin Soft Actor-Critic: Efficient Exploration through Uncertainty-Driven Critic Learning**|Haque Ishfaq et.al.|[2501.17827](http://arxiv.org/abs/2501.17827)|null|
+|**2025-01-29**|**VICCA: Visual Interpretation and Comprehension of Chest X-ray Anomalies in Generated Report Without Human Feedback**|Sayeh Gholipour Picha et.al.|[2501.17726](http://arxiv.org/abs/2501.17726)|null|
+|**2025-01-29**|**Enhanced dissipation by advection and applications to PDEs**|Anna L. Mazzucato et.al.|[2501.17695](http://arxiv.org/abs/2501.17695)|null|
+|**2025-01-29**|**Distinguished Quantized Guidance for Diffusion-based Sequence Recommendation**|Wenyu Mao et.al.|[2501.17670](http://arxiv.org/abs/2501.17670)|null|
+|**2025-01-29**|**Spinal study of a population model for colonial species with interactions and environmental noise**|Sylvain Billiard et.al.|[2501.17608](http://arxiv.org/abs/2501.17608)|null|
+|**2025-01-29**|**Intermittent molecular motion and first passage statistics for the NMR relaxation of confined water**|Simon Gravelle et.al.|[2501.17596](http://arxiv.org/abs/2501.17596)|null|
+|**2025-01-29**|**On the Singular Control of a Diffusion and Its Running Infimum or Supremum**|Giorgio Ferrari et.al.|[2501.17577](http://arxiv.org/abs/2501.17577)|null|
+|**2025-01-29**|**Trustworthy image-to-image translation: evaluating uncertainty calibration in unpaired training scenarios**|Ciaran Bench et.al.|[2501.17570](http://arxiv.org/abs/2501.17570)|null|
+|**2025-01-29**|**Reproducible generation of green-emitting color centers in hBN using oxygen annealing**|Helmi Fartas et.al.|[2501.17562](http://arxiv.org/abs/2501.17562)|null|
 |**2025-01-27**|**RelightVid: Temporal-Consistent Diffusion Model for Video Relighting**|Ye Fang et.al.|[2501.16330](http://arxiv.org/abs/2501.16330)|null|
 |**2025-01-27**|**Movement- and Traffic-based User Identification in Commercial Virtual Reality Applications: Threats and Opportunities**|Sara Baldoni et.al.|[2501.16326](http://arxiv.org/abs/2501.16326)|null|
 |**2025-01-27**|**Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with Modality-Aware Sparsity**|Weixin Liang et.al.|[2501.16295](http://arxiv.org/abs/2501.16295)|**[link](https://github.com/weixin-liang/mixture-of-mamba)**|
