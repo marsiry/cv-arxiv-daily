@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.11
+## Updated on 2025.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4093,6 +4093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**Pippo: High-Resolution Multi-View Humans from a Single Image**|Yash Kant et.al.|[2502.07785](http://arxiv.org/abs/2502.07785)|null|
+|**2025-02-11**|**MatSwap: Light-aware material transfers in images**|Ivan Lopes et.al.|[2502.07784](http://arxiv.org/abs/2502.07784)|null|
+|**2025-02-11**|**CausalGeD: Blending Causality and Diffusion for Spatial Gene Expression Generation**|Rabeya Tus Sadia et.al.|[2502.07751](http://arxiv.org/abs/2502.07751)|null|
+|**2025-02-11**|**A BDDC Preconditioner for the Cardiac EMI Model in three Dimensions**|Fritz Goebel et.al.|[2502.07722](http://arxiv.org/abs/2502.07722)|null|
+|**2025-02-11**|**RenderBox: Expressive Performance Rendering with Text Control**|Huan Zhang et.al.|[2502.07711](http://arxiv.org/abs/2502.07711)|null|
+|**2025-02-11**|**A note on the $\mathcal{W}_2$-convergence rate of the empirical measure of an ergodic $\mathbb{R}^d$ -valued diffusion**|Jean-Francois Chassagneux et.al.|[2502.07704](http://arxiv.org/abs/2502.07704)|null|
+|**2025-02-11**|**Magic 1-For-1: Generating One Minute Video Clips within One Minute**|Hongwei Yi et.al.|[2502.07701](http://arxiv.org/abs/2502.07701)|null|
+|**2025-02-11**|**Matrix3D: Large Photogrammetry Model All-in-One**|Yuanxun Lu et.al.|[2502.07685](http://arxiv.org/abs/2502.07685)|null|
+|**2025-02-11**|**Consistency Training with Physical Constraints**|Che-Chia Chang et.al.|[2502.07636](http://arxiv.org/abs/2502.07636)|null|
+|**2025-02-11**|**Tractable Transformers for Flexible Conditional Generation**|Anji Liu et.al.|[2502.07616](http://arxiv.org/abs/2502.07616)|null|
 |**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179](http://arxiv.org/abs/2502.05179)|null|
 |**2025-02-07**|**AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting**|Chung-Ho Wu et.al.|[2502.05176](http://arxiv.org/abs/2502.05176)|null|
 |**2025-02-07**|**Fillerbuster: Multi-View Scene Completion for Casual Captures**|Ethan Weber et.al.|[2502.05175](http://arxiv.org/abs/2502.05175)|null|
