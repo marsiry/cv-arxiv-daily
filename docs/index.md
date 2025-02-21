@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.19
+## Updated on 2025.02.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4093,6 +4093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**IP-Composer: Semantic Composition of Visual Concepts**|Sara Dorfman et.al.|[2502.13951](http://arxiv.org/abs/2502.13951)|null|
+|**2025-02-19**|**Image compositing is all you need for data augmentation**|Ang Jia Ning Shermaine et.al.|[2502.13936](http://arxiv.org/abs/2502.13936)|null|
+|**2025-02-19**|**TESS 2: A Large-Scale Generalist Diffusion Language Model**|Jaesung Tae et.al.|[2502.13917](http://arxiv.org/abs/2502.13917)|null|
+|**2025-02-19**|**NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants**|Yiran Qin et.al.|[2502.13894](http://arxiv.org/abs/2502.13894)|null|
+|**2025-02-19**|**Generative Video Semantic Communication via Multimodal Semantic Fusion with Large Model**|Hang Yin et.al.|[2502.13838](http://arxiv.org/abs/2502.13838)|null|
+|**2025-02-19**|**The anisotropic Cahn--Hilliard equation with degenerate mobility: Existence of weak solutions**|Harald Garcke et.al.|[2502.13799](http://arxiv.org/abs/2502.13799)|null|
+|**2025-02-19**|**The link between Microstructural Heterogeneity, Diffusivity, and Hydrogen Embrittlement**|Daniel J Long et.al.|[2502.13793](http://arxiv.org/abs/2502.13793)|null|
+|**2025-02-19**|**A class of parabolic reaction-diffusion systems governed by spectral fractional Laplacians : Analysis and numerical simulations**|Maha Daoud et.al.|[2502.13771](http://arxiv.org/abs/2502.13771)|null|
+|**2025-02-19**|**Reverse Markov Learning: Multi-Step Generative Models for Complex Distributions**|Xinwei Shen et.al.|[2502.13747](http://arxiv.org/abs/2502.13747)|null|
+|**2025-02-19**|**Models of liquid samples confinement for nanoscale NMR**|Santiago Oviedo Casado et.al.|[2502.13578](http://arxiv.org/abs/2502.13578)|null|
 |**2025-02-17**|**Diffusion Models without Classifier-free Guidance**|Zhicong Tang et.al.|[2502.12154](http://arxiv.org/abs/2502.12154)|**[link](https://github.com/tzco/Diffusion-wo-CFG)**|
 |**2025-02-17**|**Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening**|Ye Tian et.al.|[2502.12146](http://arxiv.org/abs/2502.12146)|null|
 |**2025-02-17**|**MagicArticulate: Make Your 3D Models Articulation-Ready**|Chaoyue Song et.al.|[2502.12135](http://arxiv.org/abs/2502.12135)|null|
