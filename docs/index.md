@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.24
+## Updated on 2025.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4093,6 +4093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**One-step Diffusion Models with $f$ -Divergence Distribution Matching**|Yilun Xu et.al.|[2502.15681](http://arxiv.org/abs/2502.15681)|null|
+|**2025-02-21**|**AutoTandemML: Active Learning Enhanced Tandem Neural Networks for Inverse Design Problems**|Luka Grbcic et.al.|[2502.15643](http://arxiv.org/abs/2502.15643)|null|
+|**2025-02-21**|**The SARAO MeerKAT Galactic Plane Survey extended source catalogue**|C. Bordiu et.al.|[2502.15640](http://arxiv.org/abs/2502.15640)|null|
+|**2025-02-21**|**Infinite-dimensional diffusions and depletion interaction for a model of colloids**|Myriam Fradon et.al.|[2502.15628](http://arxiv.org/abs/2502.15628)|null|
+|**2025-02-21**|**Pick-and-place Manipulation Across Grippers Without Retraining: A Learning-optimization Diffusion Policy Approach**|Xiangtong Yao et.al.|[2502.15613](http://arxiv.org/abs/2502.15613)|null|
+|**2025-02-21**|**Accurate and efficient machine learning interatomic potentials for finite temperature modeling of molecular crystals**|Flaviano Della Pia et.al.|[2502.15530](http://arxiv.org/abs/2502.15530)|null|
+|**2025-02-21**|**Confidence-Based Annotation Of Brain Tumours In Ultrasound**|Alistair Weld et.al.|[2502.15484](http://arxiv.org/abs/2502.15484)|null|
+|**2025-02-21**|**On Neural BRDFs: A Thorough Comparison of State-of-the-Art Approaches**|Florian Hofherr et.al.|[2502.15480](http://arxiv.org/abs/2502.15480)|null|
+|**2025-02-21**|**Sheaf theory: from deep geometry to deep learning**|Anton Ayzenberg et.al.|[2502.15476](http://arxiv.org/abs/2502.15476)|null|
+|**2025-02-21**|**Correlations of density and current fluctuations in single-file motion of hard spheres and in driven lattice gas with nearest-neighbor interaction**|Sören Schweers et.al.|[2502.15469](http://arxiv.org/abs/2502.15469)|null|
 |**2025-02-20**|**Dynamic Concepts Personalization from Single Videos**|Rameen Abdal et.al.|[2502.14844](http://arxiv.org/abs/2502.14844)|null|
 |**2025-02-20**|**Improving the Diffusability of Autoencoders**|Ivan Skorokhodov et.al.|[2502.14831](http://arxiv.org/abs/2502.14831)|null|
 |**2025-02-20**|**AVD2: Accident Video Diffusion for Accident Video Description**|Cheng Li et.al.|[2502.14801](http://arxiv.org/abs/2502.14801)|null|
