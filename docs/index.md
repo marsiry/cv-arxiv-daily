@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4093,6 +4093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[2503.05689](http://arxiv.org/abs/2503.05689)|null|
+|**2025-03-07**|**AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data**|Zengqun Zhao et.al.|[2503.05665](http://arxiv.org/abs/2503.05665)|null|
+|**2025-03-07**|**TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models**|Mark YU et.al.|[2503.05638](http://arxiv.org/abs/2503.05638)|null|
+|**2025-03-07**|**Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models**|Zheng Li et.al.|[2503.05595](http://arxiv.org/abs/2503.05595)|null|
+|**2025-03-07**|**QArtSR: Quantization via Reverse-Module and Timestep-Retraining in One-Step Diffusion based Image Super-Resolution**|Libo Zhu et.al.|[2503.05584](http://arxiv.org/abs/2503.05584)|null|
+|**2025-03-07**|**Diffusion Models for Cayley Graphs**|Michael R. Douglas et.al.|[2503.05558](http://arxiv.org/abs/2503.05558)|null|
+|**2025-03-07**|**Accelerating db-A $^\textbf{*}$ for Kinodynamic Motion Planning Using Diffusion**|Julius Franke et.al.|[2503.05539](http://arxiv.org/abs/2503.05539)|null|
+|**2025-03-07**|**Noise-Robust Radio Frequency Fingerprint Identification Using Denoise Diffusion Model**|Guolin Yin et.al.|[2503.05514](http://arxiv.org/abs/2503.05514)|null|
+|**2025-03-07**|**Mol-CADiff: Causality-Aware Autoregressive Diffusion for Molecule Generation**|Md Atik Ahamed et.al.|[2503.05499](http://arxiv.org/abs/2503.05499)|null|
+|**2025-03-07**|**RiLoCo: An ISAC-oriented AI Solution to Build RIS-empowered Networks**|Guillermo Encinas-Lago et.al.|[2503.05480](http://arxiv.org/abs/2503.05480)|null|
 |**2025-03-06**|**FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video**|Yue Gao et.al.|[2503.04720](http://arxiv.org/abs/2503.04720)|null|
 |**2025-03-06**|**Coarse graining and reduced order models for plume ejection dynamics**|Ike Griss Salas et.al.|[2503.04690](http://arxiv.org/abs/2503.04690)|null|
 |**2025-03-06**|**Compositional World Knowledge leads to High Utility Synthetic data**|Sachit Gaudi et.al.|[2503.04687](http://arxiv.org/abs/2503.04687)|null|
