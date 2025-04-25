@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.23
+## Updated on 2025.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4093,6 +4093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Latent Diffusion Planning for Imitation Learning**|Amber Xie et.al.|[2504.16925](http://arxiv.org/abs/2504.16925)|null|
+|**2025-04-23**|**DreamO: A Unified Framework for Image Customization**|Chong Mou et.al.|[2504.16915](http://arxiv.org/abs/2504.16915)|null|
+|**2025-04-23**|**Practical approaches for crystal structure predictions with inpainting generation and universal interatomic potentials**|Peichen Zhong et.al.|[2504.16893](http://arxiv.org/abs/2504.16893)|null|
+|**2025-04-23**|**Planning with Diffusion Models for Target-Oriented Dialogue Systems**|Hanwen Du et.al.|[2504.16858](http://arxiv.org/abs/2504.16858)|null|
+|**2025-04-23**|**Magnetorotational instability in a solar mean-field dynamo**|Axel Brandenburg et.al.|[2504.16849](http://arxiv.org/abs/2504.16849)|null|
+|**2025-04-23**|**Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models**|Ilyass Taouil et.al.|[2504.16843](http://arxiv.org/abs/2504.16843)|null|
+|**2025-04-23**|**Distributed Unknown Input Observers for Discrete-Time Linear Time-Invariant Systems**|Franco Angelo Torchiaro et.al.|[2504.16815](http://arxiv.org/abs/2504.16815)|null|
+|**2025-04-23**|**Thermal Evolution and Mass Loss on Short-Period, Low-Mass Planets During FU Orionis Outbursts**|Juliette Becker et.al.|[2504.16772](http://arxiv.org/abs/2504.16772)|null|
+|**2025-04-24**|**Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks**|Yanan Zhao et.al.|[2504.16748](http://arxiv.org/abs/2504.16748)|null|
+|**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740](http://arxiv.org/abs/2504.16740)|null|
 |**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281](http://arxiv.org/abs/2504.15281)|null|
 |**2025-04-21**|**Diffusion Bridge Models for 3D Medical Image Translation**|Shaorong Zhang et.al.|[2504.15267](http://arxiv.org/abs/2504.15267)|null|
 |**2025-04-21**|**Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction**|Vaishnavh Nagarajan et.al.|[2504.15266](http://arxiv.org/abs/2504.15266)|**[link](https://github.com/chenwu98/algorithmic-creativity)**|
