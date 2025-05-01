@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.29
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4093,6 +4093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Conformal-DP: Differential Privacy on Riemannian Manifolds via Conformal Transformation**|Peilin He et.al.|[2504.20941](http://arxiv.org/abs/2504.20941)|null|
+|**2025-04-29**|**AI-GenBench: A New Ongoing Benchmark for AI-Generated Image Detection**|Lorenzo Pellegrini et.al.|[2504.20865](http://arxiv.org/abs/2504.20865)|null|
+|**2025-04-29**|**SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings**|Florian Vahl et.al.|[2504.20808](http://arxiv.org/abs/2504.20808)|null|
+|**2025-04-29**|**Q-Fusion: Diffusing Quantum Circuits**|Collin Beaudoin et.al.|[2504.20794](http://arxiv.org/abs/2504.20794)|null|
+|**2025-04-29**|**Critical clusters in liquid crystals: Fractal geometry and conformal invariance**|Renan A. L. Almeida et.al.|[2504.20788](http://arxiv.org/abs/2504.20788)|null|
+|**2025-04-29**|**JTreeformer: Graph-Transformer via Latent-Diffusion Model for Molecular Generation**|Ji Shi et.al.|[2504.20770](http://arxiv.org/abs/2504.20770)|null|
+|**2025-04-29**|**Influence network reconstruction from discrete time-series of count data modelled by multidimensional Hawkes processes**|Naratip Santitissadeekorn et.al.|[2504.20758](http://arxiv.org/abs/2504.20758)|null|
+|**2025-04-29**|**DDPS: Discrete Diffusion Posterior Sampling for Paths in Layered Graphs**|Hao Luan et.al.|[2504.20754](http://arxiv.org/abs/2504.20754)|null|
+|**2025-04-29**|**On optimal error rates for strong approximation of SDEs with a Hölder continuous drift coefficient**|Simon Ellinger et.al.|[2504.20728](http://arxiv.org/abs/2504.20728)|null|
+|**2025-04-29**|**Neural semi-Lagrangian method for high-dimensional advection-diffusion problems**|Emmanuel Franck et.al.|[2504.20715](http://arxiv.org/abs/2504.20715)|null|
 |**2025-04-25**|**Robust semi-implicit multilevel SDC methods for conservation laws**|Erik Pfister et.al.|[2504.18526](http://arxiv.org/abs/2504.18526)|null|
 |**2025-04-25**|**RSFR: A Coarse-to-Fine Reconstruction Framework for Diffusion Tensor Cardiac MRI with Semantic-Aware Refinement**|Jiahao Huang et.al.|[2504.18520](http://arxiv.org/abs/2504.18520)|null|
 |**2025-04-25**|**Complex morphology and precession indicators of AGN jets in LoTSS DR2**|Maya Horton et.al.|[2504.18518](http://arxiv.org/abs/2504.18518)|null|
