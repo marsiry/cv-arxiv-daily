@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.01
+## Updated on 2025.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4093,6 +4093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Controllable Weather Synthesis and Removal with Video Diffusion Models**|Chih-Hao Lin et.al.|[2505.00704](http://arxiv.org/abs/2505.00704)|null|
+|**2025-05-01**|**GuideSR: Rethinking Guidance for One-Step High-Fidelity Diffusion-Based Super-Resolution**|Aditya Arora et.al.|[2505.00687](http://arxiv.org/abs/2505.00687)|null|
+|**2025-05-01**|**The local coupling of noise technique and its application to lower error bounds for strong approximation of SDEs with irregular coefficients**|Simon Ellinger et.al.|[2505.00656](http://arxiv.org/abs/2505.00656)|null|
+|**2025-05-01**|**ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models**|Jiarong Wei et.al.|[2505.00586](http://arxiv.org/abs/2505.00586)|null|
+|**2025-05-01**|**Narrow Inhomogeneous Distribution and Charge State Stabilization of Lead-Vacancy Centers in Diamond**|Ryotaro Abe et.al.|[2505.00576](http://arxiv.org/abs/2505.00576)|null|
+|**2025-05-01**|**Safety-Critical Traffic Simulation with Guided Latent Diffusion Model**|Mingxing Peng et.al.|[2505.00515](http://arxiv.org/abs/2505.00515)|null|
+|**2025-05-01**|**JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers**|Kwon Byung-Ki et.al.|[2505.00482](http://arxiv.org/abs/2505.00482)|null|
+|**2025-05-01**|**Stability of the first-order unified gas-kinetic scheme based on a linear kinetic model**|Tuowei Chen et.al.|[2505.00434](http://arxiv.org/abs/2505.00434)|null|
+|**2025-05-01**|**Leveraging Pretrained Diffusion Models for Zero-Shot Part Assembly**|Ruiyuan Zhang et.al.|[2505.00426](http://arxiv.org/abs/2505.00426)|null|
+|**2025-05-01**|**Prospects for Ultralow-Mass Nuclear Magnetic Resonance using Spin Defects in Hexagonal Boron Nitride**|Declan M. Daly et.al.|[2505.00383](http://arxiv.org/abs/2505.00383)|null|
 |**2025-04-29**|**Conformal-DP: Differential Privacy on Riemannian Manifolds via Conformal Transformation**|Peilin He et.al.|[2504.20941](http://arxiv.org/abs/2504.20941)|null|
 |**2025-04-29**|**AI-GenBench: A New Ongoing Benchmark for AI-Generated Image Detection**|Lorenzo Pellegrini et.al.|[2504.20865](http://arxiv.org/abs/2504.20865)|null|
 |**2025-04-29**|**SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings**|Florian Vahl et.al.|[2504.20808](http://arxiv.org/abs/2504.20808)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.01
+## Updated on 2025.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -776,7 +776,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## SFM
 
@@ -1094,7 +1094,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2102,7 +2102,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2374,7 +2374,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2660,7 +2660,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## NeRF
 
@@ -4094,7 +4094,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## LLM
 
@@ -4111,12 +4111,22 @@
 |**2024-12-30**|**TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization**|Chia-Yu Hung et.al.|[2412.21037](http://arxiv.org/abs/2412.21037)|**[link](https://github.com/declare-lab/TangoFlux)**|
 |**2024-12-30**|**GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models**|Shangyu Xing et.al.|[2412.21036](http://arxiv.org/abs/2412.21036)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Controllable Weather Synthesis and Removal with Video Diffusion Models**|Chih-Hao Lin et.al.|[2505.00704](http://arxiv.org/abs/2505.00704)|null|
+|**2025-05-01**|**GuideSR: Rethinking Guidance for One-Step High-Fidelity Diffusion-Based Super-Resolution**|Aditya Arora et.al.|[2505.00687](http://arxiv.org/abs/2505.00687)|null|
+|**2025-05-01**|**The local coupling of noise technique and its application to lower error bounds for strong approximation of SDEs with irregular coefficients**|Simon Ellinger et.al.|[2505.00656](http://arxiv.org/abs/2505.00656)|null|
+|**2025-05-01**|**ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models**|Jiarong Wei et.al.|[2505.00586](http://arxiv.org/abs/2505.00586)|null|
+|**2025-05-01**|**Narrow Inhomogeneous Distribution and Charge State Stabilization of Lead-Vacancy Centers in Diamond**|Ryotaro Abe et.al.|[2505.00576](http://arxiv.org/abs/2505.00576)|null|
+|**2025-05-01**|**Safety-Critical Traffic Simulation with Guided Latent Diffusion Model**|Mingxing Peng et.al.|[2505.00515](http://arxiv.org/abs/2505.00515)|null|
+|**2025-05-01**|**JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers**|Kwon Byung-Ki et.al.|[2505.00482](http://arxiv.org/abs/2505.00482)|null|
+|**2025-05-01**|**Stability of the first-order unified gas-kinetic scheme based on a linear kinetic model**|Tuowei Chen et.al.|[2505.00434](http://arxiv.org/abs/2505.00434)|null|
+|**2025-05-01**|**Leveraging Pretrained Diffusion Models for Zero-Shot Part Assembly**|Ruiyuan Zhang et.al.|[2505.00426](http://arxiv.org/abs/2505.00426)|null|
+|**2025-05-01**|**Prospects for Ultralow-Mass Nuclear Magnetic Resonance using Spin Defects in Hexagonal Boron Nitride**|Declan M. Daly et.al.|[2505.00383](http://arxiv.org/abs/2505.00383)|null|
 |**2025-04-29**|**Conformal-DP: Differential Privacy on Riemannian Manifolds via Conformal Transformation**|Peilin He et.al.|[2504.20941](http://arxiv.org/abs/2504.20941)|null|
 |**2025-04-29**|**AI-GenBench: A New Ongoing Benchmark for AI-Generated Image Detection**|Lorenzo Pellegrini et.al.|[2504.20865](http://arxiv.org/abs/2504.20865)|null|
 |**2025-04-29**|**SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings**|Florian Vahl et.al.|[2504.20808](http://arxiv.org/abs/2504.20808)|null|
@@ -4628,7 +4638,7 @@
 |**2024-12-30**|**Quantum Diffusion Model for Quark and Gluon Jet Generation**|Mariia Baidachna et.al.|[2412.21082](http://arxiv.org/abs/2412.21082)|**[link](https://github.com/mashathepotato/GSoC-Quantum-Diffusion-Model)**|
 |**2025-01-02**|**Edicho: Consistent Image Editing in the Wild**|Qingyan Bai et.al.|[2412.21079](http://arxiv.org/abs/2412.21079)|**[link](https://github.com/ezioby/edicho)**|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
