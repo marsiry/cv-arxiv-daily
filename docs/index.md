@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.07
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4094,7 +4094,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-05**|**Contrastive Flow Matching**|George Stoica et.al.|[2506.05350](http://arxiv.org/abs/2506.05350)|null|
-|**2025-06-05**|**Exploring Diffusion Transformer Designs via Grafting**|Keshigeyan Chandrasegaran et.al.|[2506.05340](http://arxiv.org/abs/2506.05340)|null|
+|**2025-06-06**|**Exploring Diffusion Transformer Designs via Grafting**|Keshigeyan Chandrasegaran et.al.|[2506.05340](http://arxiv.org/abs/2506.05340)|null|
 |**2025-06-05**|**Heterogeneous response and non-Markovianity in the microrheology of semisolid viscoelastic materials**|T. N. Azevedo et.al.|[2506.05311](http://arxiv.org/abs/2506.05311)|null|
 |**2025-06-05**|**Learning normalized image densities via dual score matching**|Florentin Guth et.al.|[2506.05310](http://arxiv.org/abs/2506.05310)|null|
 |**2025-06-05**|**SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training**|Jianyi Wang et.al.|[2506.05301](http://arxiv.org/abs/2506.05301)|null|
