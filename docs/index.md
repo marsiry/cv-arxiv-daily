@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4093,6 +4093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432](http://arxiv.org/abs/2506.22432)|null|
+|**2025-06-27**|**DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding**|Yang Yang et.al.|[2506.22362](http://arxiv.org/abs/2506.22362)|null|
+|**2025-06-27**|**Unfolding Generative Flows with Koopman Operators: Fast and Interpretable Sampling**|Erkan Turan et.al.|[2506.22304](http://arxiv.org/abs/2506.22304)|null|
+|**2025-06-27**|**OutDreamer: Video Outpainting with a Diffusion Transformer**|Linhao Zhong et.al.|[2506.22298](http://arxiv.org/abs/2506.22298)|null|
+|**2025-06-27**|**The Effect of Network Topology on the Equilibria of Influence-Opinion Games**|Yigit Ege Bayiz et.al.|[2506.22293](http://arxiv.org/abs/2506.22293)|null|
+|**2025-06-27**|**The evasion of tipping: pattern formation near a Turing-fold bifurcation**|Dock Staal et.al.|[2506.22251](http://arxiv.org/abs/2506.22251)|null|
+|**2025-06-27**|**Relaxation enhancement by controlling incompressible fluid flows**|Kai Koike et.al.|[2506.22233](http://arxiv.org/abs/2506.22233)|null|
+|**2025-06-27**|**Existence and uniqueness results of unsteady reactive flows in porous media**|Pankaj Roy et.al.|[2506.22225](http://arxiv.org/abs/2506.22225)|null|
+|**2025-06-27**|**Pattern formation in a Swift-Hohenberg equation with spatially periodic coefficients**|Jolien Kamphuis et.al.|[2506.22211](http://arxiv.org/abs/2506.22211)|null|
+|**2025-06-27**|**Scale-resolved turbulent Prandtl number for Rayleigh-Bénard convection at $\boldsymbol{Pr =10^{-3}}$**|Shashwat Bhattacharya et.al.|[2506.22110](http://arxiv.org/abs/2506.22110)|null|
 |**2025-06-26**|**Whole-Body Conditioned Egocentric Video Prediction**|Yutong Bai et.al.|[2506.21552](http://arxiv.org/abs/2506.21552)|null|
 |**2025-06-26**|**DeOcc-1-to-3: 3D De-Occlusion from a Single Image via Self-Supervised Multi-View Diffusion**|Yansong Qu et.al.|[2506.21544](http://arxiv.org/abs/2506.21544)|null|
 |**2025-06-26**|**SmoothSinger: A Conditional Diffusion Model for Singing Voice Synthesis with Multi-Resolution Architecture**|Kehan Sui et.al.|[2506.21478](http://arxiv.org/abs/2506.21478)|null|
