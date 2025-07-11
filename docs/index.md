@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.09
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4093,6 +4093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
+|**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
+|**2025-07-09**|**The cosmic-ray sea explains the Galactic $γ$-ray and $ν$ diffuse emissions from GeV to PeV**|Pedro De La Torre Luque et.al.|[2507.07083](http://arxiv.org/abs/2507.07083)|null|
+|**2025-07-09**|**Exact Evaluation of the Accuracy of Diffusion Models for Inverse Problems with Gaussian Data Distributions**|Emile Pierret et.al.|[2507.07008](http://arxiv.org/abs/2507.07008)|null|
+|**2025-07-10**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[2507.06971](http://arxiv.org/abs/2507.06971)|null|
+|**2025-07-09**|**Dataset and Benchmark for Enhancing Critical Retained Foreign Object Detection**|Yuli Wang et.al.|[2507.06937](http://arxiv.org/abs/2507.06937)|null|
+|**2025-07-09**|**Search for High Energy Neutrinos from Infrared Flares**|Teresa Pernice et.al.|[2507.06934](http://arxiv.org/abs/2507.06934)|null|
+|**2025-07-09**|**Nonparametric Bayesian Inference for Stochastic Reaction-Diffusion Equations**|Randolf Altmeyer et.al.|[2507.06857](http://arxiv.org/abs/2507.06857)|null|
+|**2025-07-09**|**DiffSpectra: Molecular Structure Elucidation from Spectra using Diffusion Models**|Liang Wang et.al.|[2507.06853](http://arxiv.org/abs/2507.06853)|null|
+|**2025-07-09**|**Measuring cosmic baryon density with FRB and GW data**|Ji-Guo Zhang et.al.|[2507.06841](http://arxiv.org/abs/2507.06841)|null|
 |**2025-07-07**|**Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**|Chun-Hsiao Yeh et.al.|[2507.05259](http://arxiv.org/abs/2507.05259)|null|
 |**2025-07-07**|**Ultra-sensitive sizing of individual nanoparticles with an optofluidic microcavity**|Shalom Palkhivala et.al.|[2507.05236](http://arxiv.org/abs/2507.05236)|null|
 |**2025-07-07**|**Quantitative Morphology of Galactic Cirrus in Deep Optical Imaging**|Qing Liu et.al.|[2507.05217](http://arxiv.org/abs/2507.05217)|null|
