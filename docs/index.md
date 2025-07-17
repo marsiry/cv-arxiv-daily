@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.15
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4093,6 +4093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**CATVis: Context-Aware Thought Visualization**|Tariq Mehmood et.al.|[2507.11522](http://arxiv.org/abs/2507.11522)|null|
+|**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
+|**2025-07-15**|**Exploring the robustness of TractOracle methods in RL-based tractography**|Jeremi Levesque et.al.|[2507.11486](http://arxiv.org/abs/2507.11486)|null|
+|**2025-07-15**|**HUG-VAS: A Hierarchical NURBS-Based Generative Model for Aortic Geometry Synthesis and Controllable Editing**|Pan Du et.al.|[2507.11474](http://arxiv.org/abs/2507.11474)|null|
+|**2025-07-15**|**Timescales for stochastic barrier crossing: inferring the potential from nonequilibrium data**|A. J. Archer et.al.|[2507.11456](http://arxiv.org/abs/2507.11456)|null|
+|**2025-07-15**|**Implementing Adaptations for Vision AutoRegressive Model**|Kaif Shaikh et.al.|[2507.11441](http://arxiv.org/abs/2507.11441)|null|
+|**2025-07-15**|**A Stochastic RAGE Theorem and Enhanced Dissipation for Transport Noise**|Michele Coti Zelati et.al.|[2507.11422](http://arxiv.org/abs/2507.11422)|null|
+|**2025-07-15**|**Mapping Diffuse Radio Sources Using TUNA: A Transformer-Based Deep Learning Approach**|Nicoletta Sanvitale et.al.|[2507.11320](http://arxiv.org/abs/2507.11320)|null|
+|**2025-07-15**|**Diffusion-Based Imaginative Coordination for Bimanual Manipulation**|Huilin Xu et.al.|[2507.11296](http://arxiv.org/abs/2507.11296)|null|
+|**2025-07-15**|**Markov approximation for controlled Hawkes Jump-Diffusions with general kernels**|Mahmoud Khabou et.al.|[2507.11294](http://arxiv.org/abs/2507.11294)|null|
 |**2025-07-11**|**Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective**|Hangjie Yuan et.al.|[2507.08801](http://arxiv.org/abs/2507.08801)|null|
 |**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800](http://arxiv.org/abs/2507.08800)|null|
 |**2025-07-11**|**From One to More: Contextual Part Latents for 3D Generation**|Shaocong Dong et.al.|[2507.08772](http://arxiv.org/abs/2507.08772)|null|
