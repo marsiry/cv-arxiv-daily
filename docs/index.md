@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.17
+## Updated on 2025.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4093,6 +4093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**The Star Formation History and Evolution of the Ultra-Diffuse M81 Satellite, F8D1**|Adam Smercina et.al.|[2507.13349](http://arxiv.org/abs/2507.13349)|null|
+|**2025-07-17**|**Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models**|Yudong Jin et.al.|[2507.13344](http://arxiv.org/abs/2507.13344)|null|
+|**2025-07-17**|**Taming Diffusion Transformer for Real-Time Mobile Video Generation**|Yushu Wu et.al.|[2507.13343](http://arxiv.org/abs/2507.13343)|null|
+|**2025-07-17**|**Where is the Supervirial Gas? III. Insights from X-ray Shadow Observations and a revised Model for the Soft Diffuse X-ray Background**|Anjali Gupta et.al.|[2507.13331](http://arxiv.org/abs/2507.13331)|null|
+|**2025-07-17**|**FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization**|Chuancheng Shi et.al.|[2507.13311](http://arxiv.org/abs/2507.13311)|null|
+|**2025-07-17**|**DiffClean: Diffusion-based Makeup Removal for Accurate Age Estimation**|Ekta Balkrishna Gavas et.al.|[2507.13292](http://arxiv.org/abs/2507.13292)|null|
+|**2025-07-17**|**The Directed Spanning Forest: coalescence versus dimension**|Tom Garcia-Sanchez et.al.|[2507.13289](http://arxiv.org/abs/2507.13289)|null|
+|**2025-07-17**|**The pulsar wind nebula around B1853+01 in X-rays**|Xiying Zhang et.al.|[2507.13278](http://arxiv.org/abs/2507.13278)|null|
+|**2025-07-17**|**Two-sided heat kernel bounds for $\sqrt{8/3}$ -Liouville Brownian motion**|Sebastian Andres et.al.|[2507.13269](http://arxiv.org/abs/2507.13269)|null|
+|**2025-07-17**|**On Accelerated Mixing of the No-U-turn Sampler**|Stefan Oberdörster et.al.|[2507.13259](http://arxiv.org/abs/2507.13259)|null|
 |**2025-07-15**|**CATVis: Context-Aware Thought Visualization**|Tariq Mehmood et.al.|[2507.11522](http://arxiv.org/abs/2507.11522)|null|
 |**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
 |**2025-07-15**|**Exploring the robustness of TractOracle methods in RL-based tractography**|Jeremi Levesque et.al.|[2507.11486](http://arxiv.org/abs/2507.11486)|null|
